@@ -1,9 +1,7 @@
 ---
-title: How-to Guide landing page template
-type: template
-contributors: 
+title: How-to use the documentation guidelines
 description: Add a plain text description here.
-affiliations: 
+affiliations: [Australian BioCommons]
 ---
 
 
@@ -20,6 +18,11 @@ affiliations:
 ## Please cite this guide as follows
 
 > [Citation information goes here]
+
+
+## Contributors
+
+{% include contributor-tiles-all.html %}
 
 
 ## Acknowledgements

@@ -1,6 +1,6 @@
 ## About
 
-Please see the [How-to Guide for the template](https://australianbiocommons.github.io/how-to-guide-template/) for more information on how to get started.  
+Please see the [How-to Guide]() for more information on how to get started.  
 
 
 ## Acknowledgements for the guides

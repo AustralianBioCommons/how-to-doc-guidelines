@@ -1,14 +1,18 @@
 subitems:
+  - title: Quick start guide
+    url: /00_quick_start
+  - title: Using guidelines effectively
+    url: /01_options
+  - title: Create a new repository
+    url: /02_create
+  - title: Update README
+    url: /03_readme
+  - title: Update metadata files
+    url: /04_update_files
+  - title: Tidy repository
+    url: /05_tidy
+  - title: Register
+    url: /06_register
   - title: About
     url: /index
-  - title: Standard example page
-    url: /example_page
-  - title: Workflow How-to Guide example pages
-    subitems:
-      - title: Example workflow guide page
-        url: /example_bioinformatics_workflow_page
-      - title: Example workflow documentation page
-        url: /example_workflow_documentation_page
-  - title: Contributors
-    url: /contributors
   
