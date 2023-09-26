@@ -1,17 +1,20 @@
 subitems:
   - title: Quick start guide
     url: /00_quick_start
-  - title: Using guidelines effectively
+  - title: Guideline structure and contents
+    url: /structure
+  - title: Other documentation options
     url: /01_options
-  - title: Create a new repository
+  - title: Using the documentation guidelines
+  - title: 1. Create a new repository
     url: /02_create
-  - title: Update README
+  - title: 2. Update README
     url: /03_readme
-  - title: Update metadata files
+  - title: 3. Update metadata files
     url: /04_update_files
-  - title: Tidy repository
+  - title: 4. Tidy repository
     url: /05_tidy
-  - title: Register
+  - title: 5. Register
     url: /06_register
   - title: About
     url: /index
