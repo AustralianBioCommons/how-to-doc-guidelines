@@ -22,6 +22,13 @@ The repository aims to provide guidance and a minimal starting template for:
 >The Australian BioCommons guidelines are based on learnings from existing efforts, including our own projects, but also the Galaxy, NextFlow and Snakemake communities.
 
 
+## Usage guide
+
+When your documentation is ready, this README file should be deleted and replaced with either:
+- A suitable template from the `documentation_templates/` directory, or 
+- A custom `README`. You can create custom content easily @ https://readme.so/.
+
+
 ## Guide sections
 
 > You can use this section to add navigation tiles for the pages you have created as part of your guide.

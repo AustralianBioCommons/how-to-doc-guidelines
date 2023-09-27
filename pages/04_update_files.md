@@ -5,6 +5,24 @@ description: Add a plain text description here.
 ---
 
 
+### 2. Update the recommended files
+
+The files that we recommend you always include are detailed below.
+
+| File | Purpose  | What you need to do!                                                                                                                                                                                                                                            |
+|------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|LICENSE.md| The license that indicates how someone can reuse your software or project. | Select a license (https://choosealicense.com/) and copy the license text into this file.                                                                                                                                                                        |
+|CHANGE_LOG.md| A log of the changes made for each version / release. | Update this file when you make changes to your software or project.                                                                                                                                                                                             |
+|CITATION.cff| A standard file type that indicates how someone should cite your software or project. | Update this file with the citation metadata for your software or project. GitHub will auto-detect this file and create a citation export option for you. You can easily generate your own `CITATION.cff` using this resource https://citation-file-format.github.io/cff-initializer-javascript/#/ |
+
+
+### 3. Update the optional but useful file(s)
+
+This folder contains useful files that you can include in your repository.
+
+- `codemeta.json`: this is a standard metadata file type from the [CodeMeta Project](https://codemeta.github.io/). You can easily generate your own `codemeta.json` using this resource: https://codemeta.github.io/create/
+
+
 ## Is there a way to let people know how my repository should be cited?
 
 The [documentation guidelines](https://github.com/AustralianBioCommons/doc_guidelines) include a `CITATION.cff` file to highlight 
