@@ -20,7 +20,7 @@ In this case:
 5. When ready, delete the original `README.md` file from the template repository and rename your completed documentation as `README.md`.
 
 
-## 2. Updating an existing repository
+## Updating an existing repository
 
 You can do two things here, either copy the contents of one of the template documentation files into your existing `README.md` file, or you can use existing resources like https://readme.so/ to create your own custom README content. 
 

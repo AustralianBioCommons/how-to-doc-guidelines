@@ -10,19 +10,19 @@ description: Add a plain text description here.
 The files that we recommend you always include are detailed below:
 
 
-### License
+### `LICENSE`
 
 The license indicates if, and how, someone can reuse your software or project.
 You need to select a license (https://choosealicense.com/) and copy the license text into the `LICENSE.md` file. 
 
 
-### Change log
+### `CHANGE_LOG.md`
 
 A log of the changes made for each version / release.
 Make sure to update `CHANGE_LOG.md` when you make changes to your software or project.   
 
 
-### CITATION.cff
+### `CITATION.cff`
 
 A standard file type that indicates how someone should cite your software or project ([Druskat 2021](https://doi.org/10.5281/zenodo.5171937), [Lee 2018](https://doi.org/10.1371/journal.pcbi.1006561)).
 
