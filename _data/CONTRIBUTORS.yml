@@ -19,4 +19,48 @@ Johan Gustafsson:
     role: author
     affiliation: Australian BioCommons / University of Melbourne
 
+Brian Davis:
+    git: Davisclan
+    orcid:
+    affiliation: National Computational Infrastructure
+
+Marco de la Pierre:
+    git: marcodelapierre
+    orcid:
+    affiliation: Pawsey Supercomputing Centre
+
+Audrey Stott:
+    git: audreystott
+    orcid: 0000-0003-0939-3173
+    affiliation: Pawsey Supercomputing Centre
+
+Sarah Beecroft:
+    git: SarahBeecroft
+    orcid: 0000-0002-3935-2279
+    affiliation: Pawsey Supercomputing Centre
+
+Richard Edwards:
+    git: cabbagesofdoom
+    orcid:
+    affiliation: University of New South Wales
+
+Tracy Chew:
+    git: tracychew
+    orcid: 0000-0001-9529-7705
+    affiliation: University of Sydney
+
+Matthew Downton:
+    git: mattdton
+    orcid:
+    affiliation: National Computational Infrastructure
+
+Georgina Samaha:
+    git: georgiesamaha
+    orcid: 0000-0003-0419-1476
+    affiliation: University of Sydney
+
+Ziad Al Bkhetan:
+    git: ziadbkh
+    orcid: 0000-0002-4032-5331
+    affiliation: Australian BioCommons, University of Melbourne
 

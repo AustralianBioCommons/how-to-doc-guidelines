@@ -21,31 +21,27 @@ The repository aims to provide guidance and a minimal starting template for:
 
 >The Australian BioCommons guidelines are based on learnings from existing efforts, including our own projects, but also the Galaxy, NextFlow and Snakemake communities.
 
-
 {% include section-navigation-tiles.html type="quick_start" %}
 
 
-## Guide sections
+## Please cite the documentation guidelines as follows
 
-{% include section-navigation-tiles.html type="steps" %}
-
-
-## Please cite this guide as follows
-
-> [Citation information goes here]
+> Gustafsson, J., Davis, B., de la Pierre, M., Stott, A., Beecroft, S., Downton, M., Edwards, R., Chew, T., Samaha, G., & Al Bkhetan, Z. (2023). Australian BioCommons Documentation Guidelines (Version 1.5.0) [Computer software]
 
  
 ## Contributing
 
 Anyone is welcome to contribute to these documentation guidelines in the following ways: 
 
-1. Create an issue, or
-2. Create a new branch of the repository and generate a pull request (PR)
+1. Create an [issue](https://github.com/AustralianBioCommons/doc_guidelines/issues), or
+2. Create a new branch of the [template repository](https://github.com/AustralianBioCommons/doc_guidelines) and generate a pull request (PR)
 
 > If you have contributed, please also add your name to the section below!
 
 
 ## Contributors
+
+The BioCommons would like to acknowledge the contributions of the following individuals and institutions to the documentation guidelines:
 
 {% include contributor-tiles-all.html %}
 
@@ -53,19 +49,6 @@ Anyone is welcome to contribute to these documentation guidelines in the followi
 ## Acknowledgements
 
 The documentation guidelines template repository is supported by the Australian BioCommons via Bioplatforms Australia funding, the Australian Research Data Commons (https://doi.org/10.47486/PL105) and the Queensland Government RICF programme. Bioplatforms Australia and the Australian Research Data Commons are enabled by the National Collaborative Research Infrastructure Strategy (NCRIS).
-
-The BioCommons would also like to acknowledge the contributions of the following individuals and institutions to the documentation guidelines:
-
-- **Johan Gustafsson** (Australian BioCommons, University of Melbourne) [@supernord](https://github.com/supernord)
-- **Brian Davis** (National Computational Infrastructure) [@Davisclan](https://github.com/Davisclan)
-- **Marco de la Pierre** (Pawsey Supercomputing Centre) [@marcodelapierre](https://github.com/marcodelapierre)
-- **Audrey Stott** (Pawsey Supercomputing Centre) [@audreystott](https://github.com/audreystott)
-- **Sarah Beecroft** (Pawsey Supercomputing Centre) [@SarahBeecroft](https://github.com/SarahBeecroft)
-- **Matthew Downton** (National Computational Infrastructure) [@mattdton](https://github.com/mattdton)
-- **Richard Edwards** (University of New South Wales) [@cabbagesofdoom](https://github.com/cabbagesofdoom)
-- **Tracy Chew** (University of Sydney) [@tracychew](https://github.com/tracychew)
-- **Georgina Samaha** (University of Sydney) [@georgiesamaha](https://github.com/georgiesamaha)
-- **Ziad Al Bkhetan** (Australian BioCommons, University of Melbourne) [@ziadbkh](https://github.com/ziadbkh)
 
 This guide makes use of the [ELIXIR toolkit theme](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme)
 

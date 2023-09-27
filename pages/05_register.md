@@ -10,12 +10,8 @@ Below are some suggestions for where to register, based on the type of software 
 
 #### Tools
 
-- [Zenodo](https://zenodo.org/)
-
-
-#### Tools
-
 - [bio.tools](https://bio.tools/)
+- [Zenodo](https://zenodo.org/)
 
 
 #### Computational workflows
