@@ -5,8 +5,8 @@ description: Add a plain text description here.
 ---
 
 
-## What does the BioCommons template repository look like?
+## Structure of the documentation guidelines template repository
 
 
-## How might I use the BioCommons guidelines?
+## Example usage of the guidelines
 

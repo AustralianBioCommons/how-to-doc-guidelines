@@ -5,20 +5,24 @@ description: Add a plain text description here.
 ---
 
 
-### 1. Replace the repository `README.md`
+A `README.md` is the explainer file for your software or project. 
 
-A README.md is the explainer file for your software or project. 
+You have two options for updating its contents depending on if you have cloned the documentation guidelines to create a new repository, or if you need to update an existing repository. 
 
-If you have cloned / copied this repository, you need to replace this README with either: 
+## Creating a new repository
 
-1. One of the templates from the `documentation templates` directory:
-   1. Rename the template documentation file to `README.md`,
-   2. Move the file into the root directory of the repository,
-   3. Complete the necessary sections of the template, and 
-   4. Delete the other headings
+In this case:
+
+1. Select a template from the `documentation templates` directory 
+2. Move the template file into the root directory of the repository, 
+3. Complete the necessary sections of the template, 
+4. Delete the other headings, and
+5. When ready, delete the original `README.md` file from the template repository and rename your completed documentation as `README.md`.
 
 
-2. Create your own custom README content @ https://readme.so/
+## 2. Updating an existing repository
+
+You can do two things here, either copy the contents of one of the template documentation files into your existing `README.md` file, or you can use existing resources like https://readme.so/ to create your own custom README content. 
 
 These are the current templates that are available in `documentation_templates/`:
 - `tools.md`: template for documenting software tools.
