@@ -1,11 +1,9 @@
+title: How-to Guide
 subitems:
+  - title: About
+    url: /index
   - title: Quick start guide
     url: /00_quick_start
-  - title: Guideline structure and contents
-    url: /structure
-  - title: Other documentation options
-    url: /01_options
-  - title: Using the documentation guidelines
   - title: 1. Create a new repository
     url: /02_create
   - title: 2. Update README
@@ -16,6 +14,7 @@ subitems:
     url: /05_tidy
   - title: 5. Register
     url: /06_register
-  - title: About
-    url: /index
-  
+  - title: Guideline structure and contents
+    url: /structure
+  - title: Other documentation options
+    url: /01_options
