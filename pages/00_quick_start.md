@@ -125,6 +125,22 @@ Only add the directories and structures that are needed, and highlight the purpo
 These are guidelines only, and that means you can modify, update or delete elements of the file and directory structure to suit your specific use case.
 
 
+## Register your repository
+
+Below are some suggestions for where to register, based on the type of software you have created.
+
+
+### Tools
+
+- [bio.tools](https://bio.tools/)
+- [Zenodo](https://zenodo.org/)
+
+
+### Computational workflows
+
+- [WorkflowHub](https://workflowhub.eu/)
+- [Dockstore](https://dockstore.org/)
+
 
 ## References
 
