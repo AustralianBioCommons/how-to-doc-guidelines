@@ -17,7 +17,7 @@ theme_variables:
   toc:
     full_width: false
     min_headers: 2
-    headers: 'h3'
+    headers: 'h2,h3'
 
 exclude:
   - README.md
