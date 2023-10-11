@@ -111,6 +111,21 @@ This is a standard metadata file type from the [CodeMeta Project](https://codeme
 You can easily generate your own `codemeta.json` using this resource: https://codemeta.github.io/create/
 
 
+## Keep it simple
+
+Only add the directories and structures that are needed, and highlight the purpose of each one.
+
+
+## Ensure your documentation is straightforward and easy to understand
+
+
+
+## Delete elements of the template that you do not need
+
+These are guidelines only, and that means you can modify, update or delete elements of the file and directory structure to suit your specific use case.
+
+
+
 ## References
 
 > Druskat, Stephan, Spaaks, Jurriaan H., Chue Hong, Neil, Haines, Robert, Baker, James, Bliven, Spencer, Willighagen, Egon, Pérez-Suárez, David, & Konovalov, Alexander. (2021). **Citation File Format (1.2.0)**. Zenodo. https://doi.org/10.5281/zenodo.5171937
