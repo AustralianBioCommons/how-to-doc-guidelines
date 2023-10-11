@@ -2,18 +2,8 @@ title: How-to Guide
 subitems:
   - title: About
     url: /index
-  - title: Quick start guide
+  - title: User guide
     url: /00_quick_start
-  - title: 1. Create a new repository
-    url: /01_create
-  - title: 2. Update README
-    url: /02_readme
-  - title: 3. Update metadata files
-    url: /03_update_files
-  - title: 4. Tidy repository
-    url: /04_tidy
-  - title: 5. Register
-    url: /05_register
   - title: Guideline structure and contents
     url: /structure
   - title: Other documentation options
