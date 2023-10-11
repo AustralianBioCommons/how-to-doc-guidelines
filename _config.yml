@@ -14,6 +14,10 @@ theme_variables:
   theme_color: 205a86
   topnav:
     brand_logo: assets/img/main_logo.png
+  toc:
+    full_width: false
+    min_headers: 2
+    headers: 'h3'
 
 exclude:
   - README.md
