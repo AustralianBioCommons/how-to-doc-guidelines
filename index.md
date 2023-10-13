@@ -19,9 +19,8 @@ The repository aims to provide guidance and a minimal starting template for:
 - Documenting tool or workflow access, use and [optimisation on infrastructures](https://github.com/AustralianBioCommons/doc_guidelines/blob/master/documentation_templates/infrastructure_optimisation.md)
 - Recommending additional repository contents that make your work more [FAIR](https://www.go-fair.org/fair-principles/)
 
->The Australian BioCommons guidelines are based on learnings from existing efforts, including our own projects, but also the Galaxy, NextFlow and Snakemake communities.
 
-{% include section-navigation-tiles.html type="quick_start" %}
+{% include section-navigation-tiles.html type="how-to-guide" %}
 
 
 ## Please cite the documentation guidelines as follows
@@ -47,6 +46,8 @@ The BioCommons would like to acknowledge the contributions of the following indi
 
 
 ## Acknowledgements
+
+The Australian BioCommons guidelines are based on learnings from existing efforts, including our own projects, but also the Galaxy, Nextflow and Snakemake communities.
 
 The documentation guidelines template repository is supported by the Australian BioCommons via Bioplatforms Australia funding, the Australian Research Data Commons (https://doi.org/10.47486/PL105) and the Queensland Government RICF programme. Bioplatforms Australia and the Australian Research Data Commons are enabled by the National Collaborative Research Infrastructure Strategy (NCRIS).
 

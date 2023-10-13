@@ -1,5 +1,5 @@
 ---
-title: How can these guidelines be used effectively?
+title: Other documentation options
 type: options
 description: Add a plain text description here.
 ---
@@ -12,19 +12,20 @@ There are other options that will allow you to achieve documentation best practi
 
 ## Create custom documentation
 
+- `README`: use https://readme.so/ to create your own custom README content
+- `CITATION.cff`: create a CFF file using this resource https://citation-file-format.github.io/cff-initializer-javascript/#/
+
 
 ## Use automated documentation tools
 
+See rule #8 from [Lee (2018)](https://doi.org/10.1371/journal.pcbi.1006561).
+
+- [sphinx](https://www.sphinx-doc.org/)
+- [mkdocs](https://www.mkdocs.org/)
+- [readthedocs](https://about.readthedocs.com/)
+
 
 ## Contribute to a community effort
-
-
-### Software
-
-| Community effort | Link |
-|:----:|:----:|
-|||
-
 
 
 ### Workflows

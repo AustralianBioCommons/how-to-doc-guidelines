@@ -1,6 +1,6 @@
 ---
 title: Using the documentation guidelines
-type: quick_start
+type: how-to-guide
 description: An abbreviated guide for using the documentation guidelines to create documentation for an existing, or new, software project.
 ---
 
@@ -74,8 +74,7 @@ A standard file type that indicates how someone should cite your software or pro
 2. GitHub will auto-detect this file and create a citation export option for you. 
 3. You can easily generate your own `CITATION.cff` using this resource https://citation-file-format.github.io/cff-initializer-javascript/#/
 
-The [documentation guidelines](https://github.com/AustralianBioCommons/doc_guidelines) include a `CITATION.cff` file to highlight 
-how the repository and its contents should be cited. 
+The [documentation guidelines](https://github.com/AustralianBioCommons/doc_guidelines) include a `CITATION.cff` file to highlight how the repository and its contents should be cited. 
 
 Below is an example of this file format being used by the [Sydney Informatics Hub](https://www.sydney.edu.au/research/facilities/sydney-informatics-hub.html). 
 The file is available [here](https://github.com/Sydney-Informatics-Hub/GermlineShortV_biovalidation/blob/main/CITATION.cff).

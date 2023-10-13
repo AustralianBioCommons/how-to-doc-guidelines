@@ -3,7 +3,7 @@ subitems:
   - title: About
     url: /index
   - title: User guide
-    url: /00_quick_start
+    url: /guide
   - title: Guideline structure and contents
     url: /structure
   - title: Other documentation options
