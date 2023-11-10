@@ -12,8 +12,8 @@ These are the steps required to use the documentation guidelines templates to cr
 {% include callout.html type="important" content="Using the templates in this repository is not the only option! See [this page](options) for more details." %}
 
 
-1. [Create a new repository](#creating-a-new-repository) in your account / organisation, using [this repository](https://github.com/AustralianBioCommons/doc_guidelines) as a template, or [update an existing repository](#updating-an-existing-repository).
-2. [Update recommended metadata files](#update-recommended-files).
+1. Fork the [documentation guidelines repository](https://github.com/AustralianBioCommons/doc_guidelines) in your account / organisation, or [update an existing repository](#updating-an-existing-repository) and cite the documentation guidelines.
+2. [Update the recommended metadata files](#update-recommended-files).
 3. [Update the optional metadata files](#update-optional-file--s-).
 4. [Tidy your repository](04_tidy).
 5. [Register your repository]((05_register)) in a suitable place (e.g. Zenodo, WorkflowHub, bio.tools).
@@ -31,7 +31,8 @@ You have two options for updating its contents depending on if you have cloned t
 
 In this case:
 
-1. Select a template from the `documentation templates` directory 
+1. Fork the [template repository](https://github.com/AustralianBioCommons/doc_guidelines)
+2. Select a template from the `documentation templates` directory 
 2. Move the template file into the root directory of the repository, 
 3. Complete the necessary sections of the template, 
 4. Delete the other headings, and
@@ -41,6 +42,8 @@ In this case:
 ### Updating an existing repository
 
 You can do two things here, either copy the contents of one of the template documentation files into your existing `README.md` file, or you can use existing resources like https://readme.so/ to create your own custom README content. 
+
+{% include callout.html type="important" content="In either case, make sure you cite the documentation guidelines repository, and any other resource(s) you used to create your project." %}
 
 These are the current templates that are available in `documentation_templates/`:
 - `tools.md`: template for documenting software tools.
