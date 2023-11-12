@@ -19,23 +19,16 @@ The repository aims to provide guidance and a minimal starting template for:
 - Documenting tool or workflow access, use and [optimisation on infrastructures](https://github.com/AustralianBioCommons/doc_guidelines/blob/master/documentation_templates/infrastructure_optimisation.md)
 - Recommending additional repository contents that make your work more [FAIR](https://www.go-fair.org/fair-principles/)
 
-
 {% include section-navigation-tiles.html type="how-to-guide" %}
 
 
-## Please cite the documentation guidelines as follows
+## Reusing the guidelines?
+
+These guidelines are intended to be reused. If you do reuse the guidelines, please fork the template repository and acknowledge its value by including the following citation.
 
 > Gustafsson, J., Davis, B., de la Pierre, M., Stott, A., Beecroft, S., Downton, M., Edwards, R., Chew, T., Samaha, G., & Al Bkhetan, Z. (2023). Australian BioCommons Documentation Guidelines (Version 1.5.0) [Computer software]
 
- 
-## Contributing
-
-Anyone is welcome to contribute to these documentation guidelines in the following ways: 
-
-1. Create an [issue](https://github.com/AustralianBioCommons/doc_guidelines/issues), or
-2. Create a new branch of the [template repository](https://github.com/AustralianBioCommons/doc_guidelines) and generate a pull request (PR)
-
-> If you have contributed, please also add your name to the section below!
+The services available to researchers through the Australian BioCommons are subsidised by NCRIS as part of the national strategy to make research infrastructure accessible and affordable. Acknowledgements are evidence that investments in equipment and people have led to important outcomes, which in turn builds the case for future investments.
 
 
 ## Contributors
