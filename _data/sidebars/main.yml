@@ -1,4 +1,3 @@
-title: How-to Guide
 subitems:
   - title: About
     url: /index
@@ -8,3 +7,7 @@ subitems:
     url: /structure
   - title: Other documentation options
     url: /options
+  - title: Contributing
+    url: /contributing
+  - title: Contributors
+    url: /contributors
