@@ -61,6 +61,7 @@ h2 {
 /*-----Top navigation-----*/
 
 .navbar-nav .nav-item > a {
+    color: $white;
     white-space: nowrap;
     background-color: $primary;
     border-radius: $border-radius;
