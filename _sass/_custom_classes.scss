@@ -57,3 +57,13 @@ h2 {
     }
 }
 
+/*-----As used in RDMkit-----*/
+/*-----Top navigation-----*/
+
+.navbar-nav .nav-item > a {
+    white-space: nowrap;
+    &.active {
+        background-color: $primary;
+        border-radius: $border-radius;
+    }
+}
