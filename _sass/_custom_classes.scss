@@ -20,6 +20,12 @@
     }
 }
 
+.nav-link {
+    .background {
+        background-color: $primary !important;
+    }
+}
+
 img {
     @extend .img-fluid;
 }
