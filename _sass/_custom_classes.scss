@@ -62,8 +62,6 @@ h2 {
 
 .navbar-nav .nav-item > a {
     white-space: nowrap;
-    &.active {
-        background-color: $primary;
-        border-radius: $border-radius;
-    }
+    background-color: $primary;
+    border-radius: $border-radius;
 }
